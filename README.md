@@ -1,6 +1,6 @@
 # PauseCam
 
-**Pause and resume video recording into a single continuous file — the feature the stock iOS Camera never shipped.**
+**Pause and resume video recording into a single continuous file — something the stock Camera app on iPad and iPhone simply can't do.**
 
 Record a scene, pause, reframe, resume — as many times as you like — and get **one** `.mov` in your Photos library with every paused gap stitched out and audio in perfect sync. No timeline editing, no clip joining, no third-party editor.
 
